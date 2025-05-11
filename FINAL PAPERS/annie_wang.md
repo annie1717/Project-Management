@@ -2,21 +2,14 @@
 Annie Wang, Spring 2025
 
 
-### Introduction   
+### Abstract
 
-[Comment_1]: <> As an open-source learning platform, Wave was designed to enable people all over the world to learn together and share their knowledge in newly and uniquely developing subject areas. The mission of Wave is to address the missing parts of education and promote inexpensive, interactive, community-driven learning experiences on subjects that are often ignored by large mainstream educational institutions. Citing good practice recommendations in Karl Fogel’s **Producing Open Source Software, Ben Cotton’s Program Management for Open Source Projects**, and the Mozilla Foundation’s **Working Open** guide, the purpose, targets, characteristics, target audience, technical features, and operation strategies of Wave are detailed in this paper. By practicing open-source philosophy and open-source project management techniques, Wave hopes to build an ecological system of education that is sustainable and inclusive. This paper will discuss what makes the platform necessary, how it will be developed and maintained, and how both students and creators can benefit.
+As an open-source learning platform, Wave was designed to enable people all over the world to learn together and share their knowledge in newly and uniquely developing subject areas. The mission of Wave is to address the missing parts of education and promote inexpensive, interactive, community-driven learning experiences on subjects that are often ignored by large mainstream educational institutions. Citing good practice recommendations in Karl Fogel’s **Producing Open Source Software, Ben Cotton’s Program Management for Open Source Projects**, and the Mozilla Foundation’s **Working Open** guide, the purpose, targets, characteristics, target audience, technical features, and operation strategies of Wave are detailed in this paper. By practicing open-source philosophy and open-source project management techniques, Wave hopes to build an ecological system of education that is sustainable and inclusive. This paper will discuss what makes the platform necessary, how it will be developed and maintained, and how both students and creators can benefit.
 
+### Introduction
+Online learning has come a long way in recent years. Today, we can acquire world-class education without leaving our homes--or even the country. Platforms such as Khan Academy, Skillshare, and Coursera have helped steer this much-needed institutional reform. However, there is one significant gap remaining. In a quite niche or an all-new field, or even a long-professional specialized area in between the two, students are unable to find good learning materials. Large platforms often have extremely commercially valuable content: computer programming, business management, marketing, and data science. But by contrast, they overlook areas like indie game development, rare techniques in various arts, obscure programming languages, or even one-of-a-kind crafts.
 
-[Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
-
-#### Subheading
-[Comment_3]: <> (begin your text here)
-
-| ![](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg) | 
-| :--: |
-| <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
-
-[Comment_4]: <> (Insert Figure with caption here)
+Many learners turn to YouTube videos, online articles, and blog posts. These resources can be helpful, but vary so much in quality that one is likely to find themselves left out of luck a great deal of the time. Without systems to provide the framework as well as depth and interactive feedback essential for mastery, learners may feel confused and alone. Wave was designed as a retort to this situation and also uses an open-source model. Pairing formal courses together with collaborative learning and the participatory spirit of open-source communities, Wave not only satisfies the pursuit of lifelong learning but also is new ground for education.
 
 #### Subheading     
 
